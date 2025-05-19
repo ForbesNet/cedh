@@ -8,7 +8,14 @@ on:
 
 jobs:
   build:
+<<<<<<< HEAD
     runs-on: ubuntu-latest
+=======
+    permissions:
+      contents: read
+      pages: write  
+    runs-on: self-hosted
+>>>>>>> 2fcc2e9 (addig permissions)
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
