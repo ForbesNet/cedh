@@ -7,7 +7,7 @@ from itertools import combinations, chain
 
 # load stuff ################################################################
 
-INDEX_URL = "https://konradhoeffner.github.io/mtgindex/mtgindex.json"
+INDEX_URL = "https://ForbesNet.github.io/mtgindex/mtgindex.json"
 DECKFILE = "./dist/data/decks.json"
 STATFILE = "./dist/data/cards.json"
 STATFILE_JS = "./dist/data/cards.js"

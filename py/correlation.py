@@ -30,7 +30,7 @@ if Path(CARDFILE).exists():
 else:
     print(
         CARDFILE,
-        "does not exist. Generate using https://github.com/konradHoeffner/mtgslides and copy here.",
+        "does not exist. Generate using https://github.com/ForbesNet/mtgslides and copy here.",
     )
     sys.exit()
 
