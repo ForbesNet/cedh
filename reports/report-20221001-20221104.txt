@@ -1,6 +1,6 @@
 # December 2022 cEDH staples
 See the [last post](https://www.reddit.com/r/CompetitiveEDH/comments/xsvet1/october_2022_cedh_staples/) for the changes from August 10 to October 1 and the
-[complete interactive sortable spreadsheet](https://konradhoeffner.github.io/cedh/staples.html) for a complete overview.
+[complete interactive sortable spreadsheet](https://ForbesNet.github.io/cedh/staples.html) for a complete overview.
 
 ## Changes from October 1 to December 4
 I skipped the post about changes between October to November because there hasn't been any significant change.
