@@ -7771,7 +7771,6 @@ const decks =
       "Culling the Weak",
       "Dark Ritual",
       "Deflecting Swat",
-      "Delney, Streetwise Lookout",
       "Demonic Consultation",
       "Demonic Tutor",
       "Diabolic Intent",
@@ -7847,6 +7846,7 @@ const decks =
       "Verdant Catacombs",
       "Voice of Victory",
       "Volcanic Island",
+      "Wan Shi Tong, Librarian",
       "Windswept Heath",
       "Wishclaw Talisman",
       "Wooded Foothills"
